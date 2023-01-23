@@ -1,5 +1,5 @@
 
-# Computer Hardware Sales Power BI Project
+# Computer Hardware Sales Power BI Dashboard
 
 This Power BI dashboard provides an overview of sales performance for a computer hardware company in different regions of India. I have taken data from internet. The dashboard includes visualizations such as stacked bar charts, line charts, slicers,card to showcase key metrics such as revenue by markets, sales quantity markets by region. It also includes a map visualization to show the distribution of sales across top customers and products types. Additionally, the dashboard allows users to filter the data by date range and year wise revenue and sales quantity to gain a more detailed understanding of the sales trends. Overall, this dashboard provides valuable insights into the company's sales performance in India and can assist in decision-making and strategic planning.
 
